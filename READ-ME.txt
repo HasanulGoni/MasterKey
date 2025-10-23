@@ -1,4 +1,4 @@
-  =>  Template Name    : MasterKey - Building Construction Website Template
+  =>  Template Name    : MasterKey - Building Property Management Website Template
 
   =>  Template Link    : https://htmlcodex.com/building-construction-website-template
 

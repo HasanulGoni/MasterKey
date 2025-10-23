@@ -3,42 +3,18 @@
 
     <head>
         <meta charset="utf-8">
-        <title>MasterKey - Building Construction Website Template</title>
+        <title>MasterKey - Building Property Management Website Template</title>
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
         <meta content="" name="keywords">
         <meta content="" name="description">
 
-        <!-- Google Web Fonts -->
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Roboto:wght@400;500;700&display=swap" rel="stylesheet"> 
-
-        <!-- Icon Font Stylesheet -->
-        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css"/>
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
-
-        <!-- Libraries Stylesheet -->
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
-        <link href="lib/animate/animate.min.css" rel="stylesheet">
-        <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
-        <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
-
-
-        <!-- Customized Bootstrap Stylesheet -->
-        <link href="css/bootstrap.min.css" rel="stylesheet">
-
-        <!-- Template Stylesheet -->
-        <link href="css/style.css" rel="stylesheet">
+        <?php include 'views/components/head.php'; ?>
     </head>
 
     <body>
 
         <!-- Spinner Start -->
-        <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
-            <div class="spinner-border text-primary" style="width: 3rem; height: 3rem;" role="status">
-                <span class="sr-only">Loading...</span>
-            </div>
-        </div>
+         <?php include 'views/components/spinner.php'; ?>
         <!-- Spinner End -->
 
 
@@ -52,22 +28,7 @@
         <!-- Navbar & Hero End -->
 
         <!-- Modal Search Start -->
-        <div class="modal fade" id="searchModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-            <div class="modal-dialog modal-fullscreen">
-                <div class="modal-content rounded-0">
-                    <div class="modal-header">
-                        <h4 class="modal-title mb-0" id="exampleModalLabel">Search by keyword</h4>
-                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                    </div>
-                    <div class="modal-body d-flex align-items-center">
-                        <div class="input-group w-75 mx-auto d-flex">
-                            <input type="search" class="form-control p-3" placeholder="keywords" aria-describedby="search-icon-1">
-                            <span id="search-icon-1" class="input-group-text p-3"><i class="fa fa-search"></i></span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+
         <!-- Modal Search End -->
 
         <!-- Header Start -->
@@ -84,61 +45,7 @@
         <!-- Header End -->
 
         <!-- Blog Start -->
-        <div class="container-fluid blog py-5">
-            <div class="container py-5">
-                <div class="text-center mx-auto pb-5 wow fadeInUp" data-wow-delay="0.2s" style="max-width: 800px;">
-                    <p class="text-uppercase text-secondary fs-5 mb-0">News & Blog</p>
-                    <h2 class="display-4 text-capitalize mb-3">Our latest news post and articles?</h2>
-                </div>
-                <div class="row g-4">
-                    <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.2s">
-                        <div class="blog-item h-100">
-                            <div class="blog-img">
-                                <img src="img/blog-1.jpg" class="img-fluid w-100" alt="">
-                            </div>
-                            <div class="blog-content p-4">
-                                <div class="d-flex justify-content-between mb-3">
-                                    <p class="mb-0"><i class="fa fa-calendar-check text-secondary me-1"></i> 26 April 2025</p>
-                                    <p class="mb-0"><i class="fa fa-user text-secondary me-1"></i> Admin</p>
-                                </div>
-                                <a href="#" class="h4 d-block mb-4">Emerging Tech Trends What to in the Next Decade</a>
-                                <a class="btn btn-secondary py-2 px-4" href="#">Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.4s">
-                        <div class="blog-item h-100">
-                            <div class="blog-img">
-                                <img src="img/blog-2.jpg" class="img-fluid w-100" alt="">
-                            </div>
-                            <div class="blog-content p-4">
-                                <div class="d-flex justify-content-between mb-3">
-                                    <p class="mb-0"><i class="fa fa-calendar-check text-secondary me-1"></i> 26 April 2025</p>
-                                    <p class="mb-0"><i class="fa fa-user text-secondary me-1"></i> Admin</p>
-                                </div>
-                                <a href="#" class="h4 d-block mb-4">Emerging Tech Trends What to in the Next Decade</a>
-                                <a class="btn btn-secondary py-2 px-4" href="#">Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.6s">
-                        <div class="blog-item h-100">
-                            <div class="blog-img">
-                                <img src="img/blog-3.jpg" class="img-fluid w-100" alt="">
-                            </div>
-                            <div class="blog-content p-4">
-                                <div class="d-flex justify-content-between mb-3">
-                                    <p class="mb-0"><i class="fa fa-calendar-check text-secondary me-1"></i> 26 April 2025</p>
-                                    <p class="mb-0"><i class="fa fa-user text-secondary me-1"></i> Admin</p>
-                                </div>
-                                <a href="#" class="h4 d-block mb-4">Emerging Tech Trends What to in the Next Decade</a>
-                                <a class="btn btn-secondary py-2 px-4" href="#">Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+         <?php include 'views/components/blog.php'; ?>
         <!-- Blog End -->
 
         <!-- Footer Start -->

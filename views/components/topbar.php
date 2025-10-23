@@ -4,7 +4,7 @@
                     <div class="d-flex flex-wrap">
                        
                         <a href="#" class="text-muted me-4"><i class="fas fa-phone-alt text-secondary me-2"></i>708 404 5353 </a>
-                        <a href="#" class="text-muted me-0"><i class="fas fa-envelope text-secondary me-2"></i>MasterKeytn@gmail.com</a>
+                        <a href="#" class="text-muted me-0"><i class="fas fa-envelope text-secondary me-2"></i>Info@masterkeytn.com</a>
                     </div>
                 </div>
                 <div class="col-lg-6 text-center text-lg-end">

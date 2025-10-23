@@ -3,7 +3,7 @@
 
     <head>
         <meta charset="utf-8">
-        <title>MasterKey - Building Construction Website Template</title>
+        <title>MasterKey - Building Property Management Website Template</title>
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
         <meta content="" name="keywords">
         <meta content="" name="description">
@@ -49,7 +49,7 @@
                     <div class="d-flex flex-wrap">
                         <a href="#" class="text-muted me-4"><i class="fas fa-map-marker-alt text-secondary me-2"></i>Find A Location</a>
                         <a href="#" class="text-muted me-4"><i class="fas fa-phone-alt text-secondary me-2"></i>708 404 5353 </a>
-                        <a href="#" class="text-muted me-0"><i class="fas fa-envelope text-secondary me-2"></i>MasterKeytn@gmail.com</a>
+                        <a href="#" class="text-muted me-0"><i class="fas fa-envelope text-secondary me-2"></i>Info@masterkeytn.com</a>
                     </div>
                 </div>
                 <div class="col-lg-6 text-center text-lg-end">
@@ -182,11 +182,11 @@
                     <div class="col-md-6 col-lg-6 col-xl-3">
                         <div class="footer-item d-flex flex-column">
                             <h4 class="text-white mb-4">Our Services</h4>
-                            <a href="#"><i class="fas fa-angle-right me-2"></i> General Construction</a>
+                            <a href="#"><i class="fas fa-angle-right me-2"></i> General Property Management</a>
                             <a href="#"><i class="fas fa-angle-right me-2"></i> Property Maintenance</a>
                             <a href="#"><i class="fas fa-angle-right me-2"></i> Project Managment</a>
                             <a href="#"><i class="fas fa-angle-right me-2"></i> Virtual Design & Build</a>
-                            <a href="#"><i class="fas fa-angle-right me-2"></i> Residential Construction</a>
+                            <a href="#"><i class="fas fa-angle-right me-2"></i> Residential Property Management</a>
                             <a href="#"><i class="fas fa-angle-right me-2"></i> Preconstruction</a>
                             <a href="#"><i class="fas fa-angle-right me-2"></i> Design Build</a>
                         </div>
@@ -195,8 +195,8 @@
                         <div class="footer-item d-flex flex-column">
                             <h4 class="text-white mb-4">Contact Info</h4>
                             <a href=""><i class="fa fa-map-marker-alt me-2"></i> 123 Street, New York, USA</a>
-                            <a href=""><i class="fas fa-envelope me-2"></i> info@example.com</a>
-                            <a href=""><i class="fas fa-envelope me-2"></i> info@example.com</a>
+                            <a href=""><i class="fas fa-envelope me-2"></i> Info@masterkeytn.com</a>
+                            <a href=""><i class="fas fa-envelope me-2"></i> Info@masterkeytn.com</a>
                             <a href=""><i class="fas fa-phone me-2"></i> +012 345 67890</a>
                             <a href="" class="mb-3"><i class="fas fa-print me-2"></i> +012 345 67890</a>
                             <div class="footer-btn d-flex align-items-center">
