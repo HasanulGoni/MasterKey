@@ -37,7 +37,7 @@
                         <div class="counter-item-style"></div>
                         <div class="counter-item-inner p-5">
                             <i class="fas fa-user fa-4x text-secondary"></i>
-                            <h4 class="text-dark my-4">Qualified Engineers</h4>
+                            <h4 class="text-dark my-4">Qualified Professionals</h4>
                             <div class="counter-counting">
                                 <span class="text-secondary fs-2 fw-bold" data-toggle="counter-up">53</span>
                                 <span class="h1 fw-bold text-secondary">+</span>
@@ -54,7 +54,7 @@
                             <i class="fas fa-heart fa-4x text-secondary"></i>
                             <h4 class="text-dark my-4">Years Experiance</h4>
                             <div class="counter-counting">
-                                <span class="text-secondary fs-2 fw-bold" data-toggle="counter-up">17</span>
+                                <span class="text-secondary fs-2 fw-bold" data-toggle="counter-up">7</span>
                                 <span class="h1 fw-bold text-secondary">+</span>
                             </div>
                         </div>

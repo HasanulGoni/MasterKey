@@ -8,7 +8,7 @@
         <meta content="" name="keywords">
         <meta content="" name="description">
 
-        <?php include 'views/components/styles.php'; ?>
+        <?php include 'views/components/head.php'; ?>
     </head>
 
     <body>
