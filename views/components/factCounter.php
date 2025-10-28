@@ -9,7 +9,7 @@
                             <i class="fas fa-thumbs-up fa-4x text-secondary"></i>
                             <h4 class="text-dark my-4">Completed Projects</h4>
                             <div class="counter-counting">
-                                <span class="text-secondary fs-2 fw-bold" data-toggle="counter-up">456</span>
+                                <span class="text-secondary fs-2 fw-bold" data-toggle="counter-up">987</span>
                                 <span class="h1 fw-bold text-secondary">+</span>
                             </div>
                         </div>
@@ -24,7 +24,7 @@
                             <i class="fas fa-users fa-4x text-secondary"></i>
                             <h4 class="text-dark my-4">Happy Customers</h4>
                             <div class="counter-counting">
-                                <span class="text-secondary fs-2 fw-bold" data-toggle="counter-up">513</span>
+                                <span class="text-secondary fs-2 fw-bold" data-toggle="counter-up">278</span>
                                 <span class="h1 fw-bold text-secondary">+</span>
                             </div>
                         </div>
@@ -39,7 +39,7 @@
                             <i class="fas fa-user fa-4x text-secondary"></i>
                             <h4 class="text-dark my-4">Qualified Professionals</h4>
                             <div class="counter-counting">
-                                <span class="text-secondary fs-2 fw-bold" data-toggle="counter-up">53</span>
+                                <span class="text-secondary fs-2 fw-bold" data-toggle="counter-up">37</span>
                                 <span class="h1 fw-bold text-secondary">+</span>
                             </div>
                         </div>
@@ -54,7 +54,7 @@
                             <i class="fas fa-heart fa-4x text-secondary"></i>
                             <h4 class="text-dark my-4">Years Experiance</h4>
                             <div class="counter-counting">
-                                <span class="text-secondary fs-2 fw-bold" data-toggle="counter-up">7</span>
+                                <span class="text-secondary fs-2 fw-bold" data-toggle="counter-up">9</span>
                                 <span class="h1 fw-bold text-secondary">+</span>
                             </div>
                         </div>

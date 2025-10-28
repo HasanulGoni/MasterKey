@@ -3,7 +3,7 @@
 
     <head>
         <meta charset="utf-8">
-        <title>MasterKey - Building Property Management Website Template</title>
+        <title>MasterKey - Building Property Management</title>
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
         <meta content="" name="keywords">
         <meta content="" name="description">
@@ -34,37 +34,16 @@
         <!-- Header Start -->
         <div class="container-fluid bg-breadcrumb">
             <div class="container text-center py-5" style="max-width: 900px;">
-                <h4 class="text-white display-4 mb-4 wow fadeInDown" data-wow-delay="0.1s">About Us</h4>
-                <ol class="breadcrumb d-flex justify-content-center mb-0 wow fadeInDown" data-wow-delay="0.3s">
-                    <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-                    <li class="breadcrumb-item"><a href="#">Pages</a></li>
-                    <li class="breadcrumb-item active text-secondary">About</li>
-                </ol>    
+                <h4 class="text-white display-4 mb-4 wow fadeInDown" data-wow-delay="0.1s">Our Services</h4>
+                 
             </div>
         </div>
         <!-- Header End -->
 
-        <!-- About Start -->
-         <?php include 'views/components/about.php'; ?>
-        <!-- About End -->
+        <!-- Services Start -->
+         <?php include 'views/components/tenant.php'; ?>
+        <!-- Services End -->
 
-
-        <!-- About Details Start -->
-            <?php include 'views/components/aboutdetails.php'; ?>
-        <!-- About Details End -->
-        <!-- Features Start -->
-         <?php include 'views/components/features.php'; ?>
-        <!-- Features End -->
-
-        <!-- Fact Counter -->
-         <?php include 'views/components/factcounter.php'; ?>
-        <!-- Fact Counter -->
-
-        <!-- Team Start -->
-         <?php include 'views/components/team.php'; ?>
-        <!-- Team End -->
-
-        
 
         <!-- Footer Start -->
             <?php include 'views/components/footer.php'; ?>
